@@ -1,4 +1,6 @@
-# Android-UXSDKDemo
+# Derivação do projeto Android-UXSDKDemo
+
+![UI Screen](./images/uiScreen.png)
 
 ## Introduction
 
